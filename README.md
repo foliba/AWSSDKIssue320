@@ -1,6 +1,6 @@
 # AWSSDKIssue320
 A small test project to reproduce ServiceStack issue 320
-
+ --> https://github.com/foliba/AWSSDKIssue320
 How to set up this solution and reproduce the unhandled ThroughputExceededException:
 
 
